@@ -1,5 +1,12 @@
 [
   {
+    "title": "ぎっとぎとラーメン",
+    "description": "【技育CAMP2026】ハッカソン Vol.1 にて優秀賞を取った作品です。Gitをゲーム感覚で楽しく楽しむためのものです！",
+    "image": "https://placehold.jp/f7efe0/ffffff/400x600.png?text=ぎっとぎとラーメン",
+    "url": "https://gitramen.com/",
+    "tags": ["React", "TypeScript", "SQLite", "FastAPI"]
+  },
+  {
     "title": "がばいアグリマーケット",
     "description": "ガバイソン2026春で木村情報技術賞を受賞した作品です！テーマは「100億」で規格外野菜の農業マッチングアプリです",
     "image": "https://placehold.jp/00a960/ffffff/400x600.png?text=がばいアグリマーケット",
