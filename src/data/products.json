@@ -1,5 +1,12 @@
 [
   {
+    "title": "0.30000000000000004",
+    "description": "世界一リアルな電卓です。正直です。",
+    "image": "https://placehold.jp/121212/ffffff/400x600.png?text=0.30000000000000004",
+    "url": "https://duck-ahiru-z.github.io/0.30000000000000004/",
+    "tags": ["HTML", "CSS", "Vanilla JavaScript"]
+  },
+  {
     "title": "文字化けメモ超",
     "description": "世界一のメモ超です。きちんとした文字化けの原理を用いている素晴らしいアプリです。",
     "image": "https://placehold.jp/ff0000/ffffff/400x600.png?text=文字化けメモ超",
