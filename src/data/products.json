@@ -4,7 +4,7 @@
     "description": "虫対策アプリです。【技育CAMP2026】ハッカソン Vol.3で サポーターズ賞とりました！",
     "image": "https://placehold.jp/121212/ffffff/400x600.png?text=G-end",
     "url": "https://g-end.vercel.app/",
-    "tags": ["Next.js"，"React"，"Tailwind CSS"，"PWA"，"Firebase"，"Next.js"] 
+    "tags": ["Next.js", "React", "Tailwind CSS", "PWA", "Firebase", "Next.js"] 
 
 ]
   },
