@@ -22,7 +22,7 @@
   },
   {
     "title": "ぎっとぎとラーメン",
-    "description": "【技育CAMP2026】ハッカソン Vol.1 にて優秀賞を取った作品です。Gitをゲーム感覚で楽しく楽しむためのものです！",
+    "description": "【技育CAMP2026】ハッカソン Vol.1 にて優秀賞を取った作品です。また、技育博2026 vol.1に出展しました。Gitをゲーム感覚で楽しく楽しむためのものです！",
     "image": "https://placehold.jp/f7efe0/ffffff/400x600.png?text=ぎっとぎとラーメン",
     "url": "https://gitramen.com/",
     "tags": ["React", "TypeScript", "SQLite", "FastAPI"]
