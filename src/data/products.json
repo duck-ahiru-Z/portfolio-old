@@ -1,8 +1,17 @@
 [
   {
+    "title": "G-end",
+    "description": "虫対策アプリです。【技育CAMP2026】ハッカソン Vol.3で サポーターズ賞とりました！",
+    "image": "https://placehold.jp/121212/ffffff/400x600.png?text=G-end",
+    "url": "https://g-end.vercel.app/",
+    "tags": ["Next.js"，"React"，"Tailwind CSS"，"PWA"，"Firebase"，"Next.js"] 
+
+]
+  },
+  {
     "title": "0.30000000000000004",
     "description": "世界一リアルな電卓です。正直です。試しに0.1+0.2とかしてみては？",
-    "image": "https://placehold.jp/121212/ffffff/400x600.png?text=0.30000000000000004",
+    "image": "https://placehold.jp/E57E3E/ffffff/400x600.png?text=0.30000000000000004",
     "url": "https://duck-ahiru-z.github.io/0.30000000000000004/",
     "tags": ["HTML", "CSS", "Vanilla JavaScript"]
   },
